@@ -1,1 +1,1 @@
-# team_project
+# team_project 매뉴얼
