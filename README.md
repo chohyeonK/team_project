@@ -23,4 +23,4 @@
 
 ## 설치
 ### 1. 설치 프로그램 실행
-![3_xampp 설치](./img/XAMPP_설치.png)
+![3_xampp 설치]((E:/웹개발 마스터/img/XAMPP_설치.png))
