@@ -30,3 +30,6 @@
 
 ### 3. XAMPP 제어판 실행
 ![5_xampp 제어판 실행](./img/5_제어판실행.png)
+
+## xampp 동작 확인
+### http://localhost로 이동해 확인
