@@ -23,13 +23,23 @@
 
 ## 설치
 ### 1. 설치 프로그램 실행
-![3_xampp 설치](./img/3_xampp.png)
+![3_xampp 설치](./img/3_xampp.PNG)
 
 ### 2. XAMPP를 설정하기
-![4_xampp 설정](./img/4_설정.png)
+![4_xampp 설정](./img/4_설정.PNG)
 
 ### 3. XAMPP 제어판 실행
-![5_xampp 제어판 실행](./img/5_제어판실행.png)
+![5_xampp 제어판 실행](./img/5_제어판실행.PNG)
 
 ## xampp 동작 확인
 ### http://localhost로 이동해 확인
+
+## Apache와 PHP 동작 호가인
+### 1. 파일 준비
+![6_index.php](./img/6_index.PNG)
+
+### 2. 파일 설치 
+![7_파일설치](./img/7_파일설치.PNG)
+
+### 3. 웹 브라우저에서 동작 확인
+![8_동작확인](./img/8_동작확인.PNG)
