@@ -15,4 +15,4 @@
 [git 연동 참고 주소](https://potensj.tistory.com/55)
 
 
-### 4. 수정중! 커밋 테스트
+### 4. 수정중!
