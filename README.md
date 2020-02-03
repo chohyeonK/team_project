@@ -15,4 +15,12 @@
 [git 연동 참고 주소](https://potensj.tistory.com/55)
 
 
-### 4. 수정중!
+# Apache, PHP, MySQL을 쉽게 설치할 수 있는 XAMPP 설치
+
+## 내려받기
+### 1. 웹 사이트에서 XAMPP를 확인하기
+[XAMPP 다운 받을 수 있는 주소](https://www.apachefriends.org/index.html)
+
+## 설치
+### 1. 설치 프로그램 실행
+![3_xampp 설치](./img/XAMPP_설치.png)
