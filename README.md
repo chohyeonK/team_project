@@ -25,3 +25,5 @@
 ### 1. 설치 프로그램 실행
 ![3_xampp 설치](./img/3_xampp.png)
 
+### 2. XAMPP를 설정하기
+![4_xampp 설정](./img/4_설정.png)
